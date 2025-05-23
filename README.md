@@ -1,12 +1,12 @@
-## Password Strength Checker
+# Password Strength Checker
 Project Title: Password Strength Checker
 Author: EclipseManic
 
 ## Description:
 This Python script checks the strength of a password based on predefined criteria. It evaluates the password against multiple rules and provides feedback on its security level, along with tips for improvement.
 
-## Features:
-# Checks for the following password criteria:
+# Features:
+## Checks for the following password criteria:
 
 Minimum length of 8 characters
 
@@ -18,7 +18,7 @@ At least one special character (e.g., !@#$%^&*())
 
 At least one numeric digit
 
-# Provides visual feedback (✅/❌) for each criterion.
+## Provides visual feedback (✅/❌) for each criterion.
 
 Assigns a strength score:
 
