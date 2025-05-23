@@ -55,11 +55,17 @@ Enter a password when prompted.
 bash
 Enter the password :- Pass123!
 ✅ You have fulfilled the Criateria of minimum 8 length
+
 ✅ You have fulfilled the Criateria of minimum a Capital Alphabet
+
 ✅ You have fulfilled the Criateria of minimum a Small Alphabets
+
 ✅ You have fulfilled the Criateria of minimum a special Character
+
 ✅ You have fulfilled the Criateria of minimum a Number Value
+
 🤩🤩💫 You're password have a strong strength......
+
 Output Explanation:
 
 ✅ Indicates a passed criterion.
